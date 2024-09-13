@@ -1,2 +1,2 @@
-# Physical-Journal
-CS385-3 Physical Computing Journal
+# CS485-Journal
+CS485-3 Physical Computing Online Journal
